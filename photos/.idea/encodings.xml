@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/account_service_photos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account_service_photos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apiGateway_photos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apiGateway_photos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clients_photos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/clients_photos/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-registry_photos/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/service-registry_photos/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users_service_photos/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/users_service_photos/src/main/resources" charset="UTF-8" />
   </component>
 </project>
